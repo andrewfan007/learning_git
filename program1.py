@@ -1,3 +1,3 @@
 print ("nowy program")
 print ("xD")
-print ("XDXDDDDDD")
+print ("XDXDDaswsDDDD")
